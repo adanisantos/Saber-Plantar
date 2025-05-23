@@ -1,4 +1,6 @@
-# Saber-Plantar---projeto-autoral-Alura-Imersao-IA
-Chatbot feito em Python alimentado pelo Google Gemini. 
-Projeto criado através dos conteúdos da Alura - Imersão IA 2025.
+# Saber-Plantar
+
+### É um Chatbot feito em Python alimentado pelo Google Gemini. 
+### <p> Projeto autoral feito durante a Alura-Imersao-IA. </br>
+### O Projeto foi criado através dos conteúdos da Alura - Imersão IA 2025.
 
