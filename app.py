@@ -1,5 +1,4 @@
 import streamlit as st
-import google.generativeai as genai
 
 # Inicializa o modelo Gemini e armazena-o em st.session_state para persistência
 # Esta é a parte crucial para o erro que você está a ver.
