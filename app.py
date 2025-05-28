@@ -2,8 +2,6 @@ import streamlit as st
 
 # Inicializa o modelo Gemini e armazena-o em st.session_state para persistência
 # Esta é a parte crucial para o erro que você está a ver.
-if "gemini_model" not in st.session_state:
-    st.session_state["gemini_model"] = genai.GenerativeModel('gemini-2.0-flash') # Modelo de visão para sugestões de vasos
 
    # --- Configuração da Página Streamlit (DEVE SER A PRIMEIRA CHAMADA DO ST) ---
 st.set_page_config(page_title="Chatbot de Plantas", page_icon="🌿", layout="centered")
